@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paboriesi.robertchittock.co.uk/sitemap.xml
